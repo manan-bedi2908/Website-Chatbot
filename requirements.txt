@@ -1,0 +1,8 @@
+langchain
+openai
+huggingface_hub
+unstructured
+sentence-transformers
+pdf2image
+libmagic
+python-magic-bin==0.4.14
